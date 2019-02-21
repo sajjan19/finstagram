@@ -31,6 +31,7 @@ header {
   align-items: baseline;
 }
 
+
 header > .login-info {
   margin-left: auto;
 }
@@ -87,7 +88,7 @@ main {
 
 .photo img {
   display: block;
-  width: 100%;
+  width: 50%;
 }
 
 .actions {
